@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Choosing between managed gateways and self-hosted libraries for LLM routing in 2026"
+description: "The best router depends on who controls the infrastructure, not on raw model count."
+---
+
 # Choosing between managed gateways and self-hosted libraries for LLM routing in 2026
 
 The best router depends on who controls the infrastructure, not on raw model count.
