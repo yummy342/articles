@@ -53,6 +53,3 @@ Can the lightweight client be self-hosted? The facts do not specify self-hosting
 ## Sources confirm data accuracy
 
 OpenRouter valuation and funding figures come from media reports. LiteLLM provider count is drawn from its [GitHub README](https://github.com/BerriAI/litellm). The model and alias counts are from the `GET /v1/models` endpoint of the referenced service, available [here](https://freemodel.online/v1/models). The preset agent count is from its client documentation, found [here](https://aiglade.com). No private financials were used. All data is public.
-
-**Unmet requirements**
-The specific pricing details for Portkey, Cloudflare, and Vercel could not be included because no verified figures were provided in the source material. The exact latency benchmarks for each gateway were not available in the verified facts. The specific model names supported by the 101-entry list were not enumerated, only the count. The identity of the "upstream suppliers" for the lightweight client remains undisclosed, so no specific provider names could be listed for that tool.
