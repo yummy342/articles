@@ -1,0 +1,6 @@
+diff --git a/bc-pr4.txt b/bc-pr4.txt
+new file mode 100644
+--- /dev/null
++++ b/bc-pr4.txt
+@@ -0,0 +1 @@
++pr4 selftest
