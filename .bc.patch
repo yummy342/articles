@@ -1,0 +1,6 @@
+diff --git a/bc-livepr-selftest.txt b/bc-livepr-selftest.txt
+new file mode 100644
+--- /dev/null
++++ b/bc-livepr-selftest.txt
+@@ -0,0 +1 @@
++live PR via client approve
